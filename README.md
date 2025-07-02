@@ -88,3 +88,9 @@ Ensure .env file exists and, if needed, you installed python-dotenv and imported
 
 from dotenv import load_dotenv
 load_dotenv()
+
+# 🙋‍♀️ Author
+
+**Chamanthi Pyneni**
+
+This project gave me practical experience working with MongoDB for dynamic and nested data management in a real-world university housing scenario.
